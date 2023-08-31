@@ -1,0 +1,5 @@
+Bicok Norbert: Class Diagram
+Gatyó Bence: Class segítség Packeg diagram
+Sulyok Levente: Sequence diagram 
+Molnár Dániel: Ek diagram 
+Rudnay Roland: Use Case Diagram 
